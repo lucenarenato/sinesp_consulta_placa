@@ -3,7 +3,7 @@
     "description": "Consulta em massa de placas no Sinesp.",
     "type": "project",
     "require": {
-        "chapeupreto/sinesp": "^1.7"
+        "lucenarenato/sinesp": "^1.7"
     },
     "license": "MIT",
     "authors": [
